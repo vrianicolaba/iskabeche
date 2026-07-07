@@ -1,0 +1,9 @@
+{
+  "name": "tradingview-telegram-relay",
+  "version": "1.0.0",
+  "description": "Relays TradingView webhook alerts to a Telegram chat/channel",
+  "main": "api/webhook.js",
+  "engines": {
+    "node": ">=18"
+  }
+}
